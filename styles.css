@@ -1,0 +1,18 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  color: #05be72;
+  font-family: monospace;
+}
+
+#asciiArtContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: pre;
+  text-align: left;
+  z-index: 10;
+}
