@@ -7,5 +7,4 @@ This is a very simple script to convert your text into ASCII Text. Simply change
 
 
 
-https://github.com/zayneio/asciitext/assets/37857673/3ef86a65-1c20-4f84-a732-53c3f495c193
 
